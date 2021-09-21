@@ -10,11 +10,11 @@ import os
 from steampy.utils import GameOptions
 
 # API Key
-MY_API_KEY = '5E0BB9A76E782C3C2A6E491958F972B9'
+MY_API_KEY = ''
 
 # Main Account details
-ACCOUNT_NAME = 'aman1931998steam'
-PASSWORD = '12345@Water'
+ACCOUNT_NAME = ''
+PASSWORD = ''
 PATH_TO_STEAMGUARD_FILE = os.path.join('data', 'steam_guard_file', 'Steamguard.txt')
 
 # Game Options
